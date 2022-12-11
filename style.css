@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bor {
+    border: 1px solid red;
+}
+.accordion-button{
+  
+    background-color: #a9cf54!important;
+}
+.btn{
+    background-color: #a9cf54!important; 
+}
+.grad{
+    background-color: rgb(247, 245, 245);
+}
+.part1{
+    background-color: rgb(241, 241, 241);
+}
+.part2{
+    background-color: rgb(241, 241, 241);}
